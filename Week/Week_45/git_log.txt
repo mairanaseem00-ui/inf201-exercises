@@ -1,0 +1,12 @@
+* 8df2926 - Maira Naseem, 6 days ago : Update Week 45 files
+* 82d7750 - Maira_Naseem, 6 days ago : Delete Week/Week_45/deliverable_03_solution.ipynb
+* 80d73a4 - Maira_Naseem, 6 days ago : Delete Week/Week_45/game_simulator_v1.py
+* a5b442b - Maira Naseem, 6 days ago : Remove old Week 45 files
+* 3ebd884 - Maira Naseem, 6 days ago : Updated Deliverable 3
+* 7cef654 - Maira_Naseem, 6 days ago : Add files via upload
+* 34dc148 - Maira_Naseem, 6 days ago : Delete Week/Week_45/game_simulator_v1.py
+* 7547cd7 - Maira_Naseem, 6 days ago : Delete Week/Week_45/deliverable_03_solution.ipynb
+* aaf4306 - Maira Naseem, 10 days ago : Update README
+* a742368 - Maira Naseem, 10 days ago : Update README
+* 5e2944a - Maira Naseem, 10 days ago : Update Week 45 Deliverable 3
+* 446c969 - Maira Naseem, 10 days ago : Add Week 45 exercises
